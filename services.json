@@ -1,0 +1,6 @@
+{
+  "addition": {
+    "wsdl": "http://127.0.0.1:8080/services/AdditionService?wsdl",
+    "description": "Adds two integers (number1 + number2) and returns the sum."
+  }
+}
